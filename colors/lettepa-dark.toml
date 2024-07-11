@@ -1,0 +1,82 @@
+[colors]
+ansi = [
+  "#08192D", # bg
+  "#CB1B45", # red0
+  "#00AA90", # green0
+  "#CA7A2C", # yellow0
+  "#005CAF", # blue0
+  "#E03C8A", # magenta0
+  "#3A8FB7", # cyan0
+  "#83A2B7", # fg0
+]
+background = "#08192D" # bg
+brights = [
+  "#24384F", # bg0
+  "#ED5A65", # red
+  "#47D2BC", # green
+  "#F9BF45", # yellow
+  "#37B4FD", # blue
+  "#FD67B8", # magenta
+  "#71DCEA", # cyan
+  "#CCE0EC", # fg
+]
+compose_cursor = "#3A8FB7" # cyan0
+cursor_bg = "#CCE0EC" # fg
+cursor_border = "#CCE0EC" # fg
+cursor_fg = "#08192D" # bg
+foreground = "#CCE0EC" # fg
+scrollbar_thumb = "#728A9E" # ignore
+selection_bg = "#24384F" # bg0
+selection_fg = "none"
+split = "#728A9E" # ignore
+
+[colors.indexed]
+
+[colors.tab_bar]
+background = "#24384F" # bg0
+
+[colors.tab_bar.active_tab]
+bg_color = "#08192D"  # bg
+fg_color = "#CCE0EC"  # fg
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#24384F"  # bg0
+fg_color = "#83A2B7"  # fg0
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#83A2B7"  # fg0
+fg_color = "#08192D"  # bg
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab]
+bg_color = "#24384F"  # bg0
+fg_color = "#83A2B7"  # fg0
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#83A2B7"  # fg0
+fg_color = "#08192D"  # bg
+intensity = "Normal"
+italic = false
+strikethrough = false
+underline = "None"
+
+[metadata]
+aliases = []
+author = "Lettepa"
+name = "Lettepa Dark"
+origin_url = "https://github.com/lettepa/wezterm"
