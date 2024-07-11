@@ -1,0 +1,2 @@
+# wezterm
+Lettepa for WezTerm
