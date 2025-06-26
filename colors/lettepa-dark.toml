@@ -1,23 +1,23 @@
 [colors]
 ansi = [
   "#08192d", # bg,       kachi
-  "#cb1b45", # red0,     kurenai
-  "#268785", # green0,   seiheki
-  "#96632e", # yellow0,  chojicha
-  "#005caf", # blue0,    ruri
-  "#e03c8a", # magenta0, tsutsuji
-  "#3a8fb7", # cyan0,    chigusa
-  "#91989f", # fg0,      ginnezumi
-]
-background = "#08192d" # bg, kachi
-brights = [
-  "#0f2540", # bg0,     kon
   "#db4d6d", # red,     nakabeni
   "#66bab7", # green,   mizuasagi
   "#f7c242", # yellow,  hanaba
   "#2ea9df", # blue,    tsuyukusa
   "#f596aa", # magenta, momo
   "#7db9de", # cyan,    wasurenagusa
+  "#91989f", # fg0,      ginnezumi
+]
+background = "#08192d" # bg, kachi
+brights = [
+  "#0f2540", # bg0,     kon
+  "#cb1b45", # red0,     kurenai
+  "#268785", # green0,   seiheki
+  "#96632e", # yellow0,  chojicha
+  "#005caf", # blue0,    ruri
+  "#e03c8a", # magenta0, tsutsuji
+  "#3a8fb7", # cyan0,    chigusa
   "#bdc0ba", # fg,      shironezumi
 ]
 compose_cursor = "#3a8fb7" #  cyan0,  chigusa
