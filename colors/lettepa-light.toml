@@ -1,75 +1,75 @@
 [colors]
 ansi = [
-  "#fcfaf2", # bg,      shironeri
-  "#cb1b45", # red,     kurenai
-  "#268785", # green,   seiheki
-  "#96632e", # yellow,  chojicha
-  "#005caf", # blue,    ruri
-  "#e03c8a", # magenta, tsutsuji
-  "#3a8fb7", # cyan,    chigusa
-  "#434343", # fg0,     keshizumi
+  "#f8f4ed", # bg,      hanbaiyu
+  "#c21f30", # red,     fengyehong
+  "#12aa9c", # green,   meidielü
+  "#806332", # yellow,  canghuang
+  "#1661ab", # blue,    dianqing
+  "#ee2c79", # magenta, zijinghong
+  "#1e9eb3", # cyan,    cuilan
+  "#47484c", # fg0,     waguanhui
 ]
-background = "#fcfaf2" # bg, shironeri
+background = "#f8f4ed" # bg, hanbaiyu
 brights = [
-  "#bdc0ba", # bg0,      shironezumi
-  "#db4d6d", # red0,     nakabeni
-  "#66bab7", # green0,   mizuasagi
-  "#f7c242", # yellow0,  hanaba
-  "#2ea9df", # blue0,    tsuyukusa
-  "#f596aa", # magenta0, momo
-  "#7db9de", # cyan0,    wasurenagusa
-  "#0f2540", # fg,       kon
+  "#e4dfd7", # bg0,      zhenzhuhui
+  "#f03752", # red0,     haitanghong
+  "#57c3c2", # green0,   shilü
+  "#fbb957", # yellow0,  mihuang
+  "#66a9c9", # blue0,    jianshilan
+  "#ea7293", # magenta0, fengxianhuahong
+  "#51c4d3", # cyan0,    pubulan
+  "#21373d", # fg,       huilan
 ]
-compose_cursor = "#7db9de" #  cyan0,  wasurenagusa
-cursor_bg = "#0f2540" #       fg,     kon
-cursor_border = "#0f2540" #   fg,     kon
-cursor_fg = "#fcfaf2" #       bg,     shironeri
-foreground = "#0f2540" #      fg,     kon
-scrollbar_thumb = "#828282" # ignore, hai
-selection_bg = "#bdc0ba" #    bg0,    shironezumi
+compose_cursor = "#51c4d3" #  cyan0,  pubulan
+cursor_bg = "#21373d" #       fg,     huilan
+cursor_border = "#21373d" #   fg,     huilan
+cursor_fg = "#f8f4ed" #       bg,     hanbaiyu
+foreground = "#21373d" #      fg,     huilan
+scrollbar_thumb = "#47484c" # fg0,    waguanhui
+selection_bg = "#e4dfd7" #    bg0,    zhenzhuhui
 selection_fg = "none"
-split = "#828282" #           ignore, hai
+split = "#47484c" #           fg0,    waguanhui
 
 [colors.indexed]
 
 [colors.tab_bar]
-background = "#bdc0ba" # bg0, shironezumi
+background = "#e4dfd7" # bg0, zhenzhuhui
 
 [colors.tab_bar.active_tab]
-bg_color = "#fcfaf2"  # bg, shironeri
-fg_color = "#0f2540"  # fg, kon
+bg_color = "#f8f4ed"  # bg, hanbaiyu
+fg_color = "#21373d"  # fg, huilan
 intensity = "Normal"
 italic = false
 strikethrough = false
 underline = "None"
 
 [colors.tab_bar.inactive_tab]
-bg_color = "#bdc0ba"  # bg0, shironezumi
-fg_color = "#434343"  # fg0, keshizumi
+bg_color = "#e4dfd7"  # bg0, zhenzhuhui
+fg_color = "#47484c"  # fg0, waguanhui
 intensity = "Normal"
 italic = false
 strikethrough = false
 underline = "None"
 
 [colors.tab_bar.inactive_tab_hover]
-bg_color = "#434343"  # fg0, keshizumi
-fg_color = "#fcfaf2"  # bg,  shironeri
+bg_color = "#47484c"  # fg0, waguanhui
+fg_color = "#f8f4ed"  # bg,  hanbaiyu
 intensity = "Normal"
 italic = false
 strikethrough = false
 underline = "None"
 
 [colors.tab_bar.new_tab]
-bg_color = "#bdc0ba"  # bg0, shironezumi
-fg_color = "#434343"  # fg0, keshizumi
+bg_color = "#e4dfd7"  # bg0, zhenzhuhui
+fg_color = "#47484c"  # fg0, waguanhui
 intensity = "Normal"
 italic = false
 strikethrough = false
 underline = "None"
 
 [colors.tab_bar.new_tab_hover]
-bg_color = "#434343"  # fg0, keshizumi
-fg_color = "#fcfaf2"  # bg,  shironeri
+bg_color = "#47484c"  # fg0, waguanhui
+fg_color = "#f8f4ed"  # bg,  hanbaiyu
 intensity = "Normal"
 italic = false
 strikethrough = false
