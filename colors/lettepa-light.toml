@@ -18,13 +18,13 @@ brights = [
   "#66a9c9", # blue0,    jianshilan
   "#ea7293", # magenta0, fengxianhuahong
   "#51c4d3", # cyan0,    pubulan
-  "#21373d", # fg,       huilan
+  "#2b333e", # fg,       qinghui
 ]
 compose_cursor = "#51c4d3" #  cyan0,  pubulan
-cursor_bg = "#21373d" #       fg,     huilan
-cursor_border = "#21373d" #   fg,     huilan
+cursor_bg = "#2b333e" #       fg,     qinghui
+cursor_border = "#2b333e" #   fg,     qinghui
 cursor_fg = "#f8f4ed" #       bg,     hanbaiyu
-foreground = "#21373d" #      fg,     huilan
+foreground = "#2b333e" #      fg,     qinghui
 scrollbar_thumb = "#47484c" # fg0,    waguanhui
 selection_bg = "#e4dfd7" #    bg0,    zhenzhuhui
 selection_fg = "none"
@@ -37,7 +37,7 @@ background = "#e4dfd7" # bg0, zhenzhuhui
 
 [colors.tab_bar.active_tab]
 bg_color = "#f8f4ed"  # bg, hanbaiyu
-fg_color = "#21373d"  # fg, huilan
+fg_color = "#2b333e"  # fg, qinghui
 intensity = "Normal"
 italic = false
 strikethrough = false

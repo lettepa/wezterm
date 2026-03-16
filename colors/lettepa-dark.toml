@@ -11,7 +11,7 @@ ansi = [
 ]
 background = "#101f30" # bg, anlan
 brights = [
-  "#21373d", # bg0,      huilan
+  "#2b333e", # bg0,      qinghui
   "#c21f30", # red0,     fengyehong
   "#12aa9c", # green0,   meidielü
   "#806332", # yellow0,  canghuang
@@ -26,14 +26,14 @@ cursor_border = "#e4dfd7" #   fg,     zhenzhuhui
 cursor_fg = "#101f30" #       bg,     anlan
 foreground = "#e4dfd7" #      fg,     zhenzhuhui
 scrollbar_thumb = "#c4cbcf" # fg0,    dalishihui
-selection_bg = "#21373d" #    bg0,    huilan
+selection_bg = "#2b333e" #    bg0,    qinghui
 selection_fg = "none"
 split = "#c4cbcf" #           fg0,    dalishihui
 
 [colors.indexed]
 
 [colors.tab_bar]
-background = "#21373d" # bg0, huilan
+background = "#2b333e" # bg0, qinghui
 
 [colors.tab_bar.active_tab]
 bg_color = "#101f30"  # bg, anlan
@@ -44,7 +44,7 @@ strikethrough = false
 underline = "None"
 
 [colors.tab_bar.inactive_tab]
-bg_color = "#21373d"  # bg0, huilan
+bg_color = "#2b333e"  # bg0, qinghui
 fg_color = "#c4cbcf"  # fg0, dalishihui
 intensity = "Normal"
 italic = false
@@ -60,7 +60,7 @@ strikethrough = false
 underline = "None"
 
 [colors.tab_bar.new_tab]
-bg_color = "#21373d"  # bg0, huilan
+bg_color = "#2b333e"  # bg0, qinghui
 fg_color = "#c4cbcf"  # fg0, dalishihui
 intensity = "Normal"
 italic = false
